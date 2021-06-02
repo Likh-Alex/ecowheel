@@ -4,7 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec411f4-73f8-4f37-a666-3e9e235d720f" name="Default Changelist" comment="" />
+    <list default="true" id="5ec411f4-73f8-4f37-a666-3e9e235d720f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/ecowheels/api-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/ecowheels/controller/homepage-controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/ecowheels/controller/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/ecowheels/ecowheels-app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/ecowheels/ecowheels-routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/ecowheels/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/controllers/server/AccessoryController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/controllers/server/GiftCardController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/controllers/server/OrderController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/controllers/server/ShoppingCartController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/controllers/server/UserController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/controllers/server/VehicleController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/domain/server/Accessory.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/domain/server/GiftCard.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/domain/server/Order.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/domain/server/ShoppingCart.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/domain/server/User.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/domain/server/Vehicle.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/services/server/AccessoryService.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/services/server/GiftCardService.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/services/server/OrderService.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/services/server/ShoppingCartService.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/services/server/UserService.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/services/server/VehicleService.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/views/vehicle/create.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/views/vehicle/edit.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/views/vehicle/index.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/grails-app/views/vehicle/show.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/integration-test/groovy/server/AccessoryServiceSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/integration-test/groovy/server/GiftCardServiceSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/integration-test/groovy/server/OrderServiceSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/integration-test/groovy/server/ShoppingCartServiceSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/integration-test/groovy/server/UserServiceSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/integration-test/groovy/server/VehicleServiceSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/AccessoryControllerSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/AccessorySpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/GiftCardControllerSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/GiftCardSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/OrderControllerSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/OrderSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/ShoppingCartControllerSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/ShoppingCartSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/UserControllerSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/UserSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/VehicleControllerSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/server/VehicleSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/862e5b61-08e1-481e-a632-51192f430273.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/862e5b61-08e1-481e-a632-51192f430273.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/index-async.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/view1/view1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/view1/view1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/view1/view1.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/view2/view2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/view2/view2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/view2/view2.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/e2e-tests/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/e2e-tests/scenarios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/grails-app/conf/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/grails-app/conf/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/grails-app/controllers/server/UrlMappings.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/server/grails-app/controllers/UrlMappings.groovy" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,30 +92,146 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/server">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ecowheels" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ecowheels" type="f1a62948:ProjectNode" />
+                <item name="server" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ecowheels" type="f1a62948:ProjectNode" />
+                <item name="server" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ecowheels" type="f1a62948:ProjectNode" />
+                <item name="server" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1tLkCX4JzgkH7pUWox51479Tb3I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="grails.last.selected.app.url" value="file://$PROJECT_DIR$/server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/client/app" />
+      <recent name="$PROJECT_DIR$/client/app/ecowheels" />
+      <recent name="$PROJECT_DIR$/client/app/templates" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.ecowheels:server [bootRun]">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="ecowheels:server [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="Grails: server" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
@@ -47,8 +240,14 @@
       <setting name="grailsApplicationRoot" value="$PROJECT_DIR$/server" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ecowheels:server [bootRun]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,7 +257,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622555629610</updated>
-      <workItem from="1622555636269" duration="96000" />
+      <workItem from="1622555636269" duration="3001000" />
+      <workItem from="1622558817429" duration="10281000" />
     </task>
     <servers />
   </component>
@@ -292,5 +492,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
